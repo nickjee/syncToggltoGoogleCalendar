@@ -1,0 +1,6 @@
+Flask>=1.0,<3.0
+google-api-python-client==2.41.0
+google-auth==2.6.6
+requests==2.27.1
+google-cloud-storage>=1.40.0
+pytz==2022.1
